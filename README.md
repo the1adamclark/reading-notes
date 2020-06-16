@@ -1,6 +1,6 @@
 ### CODE 201 READING NOTES
 
-- [Learning from Class One](/IntroductoryHTMLandJavascript.md)
+- [Learning from Class One](/class01IntroductoryHTMLandJavascript.md)
 - [Learning from Class Two](/HTMLtext,CSSintroductionandbasicJavascriptinstructions.md)
 - [Learning from Class Three](/HTMLLists,CSSboxes,JScontrolflow.md)
 - [Learning from Class Four](/HTMLlinks,CSSLayout,JSfunctions.md)
