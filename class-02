@@ -14,4 +14,19 @@
 **next we have an introduction to CSS or Cascading Style Sheets**
 
   *CSS* is a world of boxes around all of the elements and applies rules to each element to determine how it should look
-      - generally appear in a different document 
+      - generally appear in a different document, considered by many to be best practice, however, you can put them within the HTML
+        as a workaround if needed.
+            - rules are made up of selectors and declarations.
+                selectors specify the elemeents the rules apply to
+                declarations tell the element what it should look like
+           _DECLARATIONS_ are made up of2 parts!
+           first part is the  properties of the elements and the second is the values of the properties you want to change
+           
+** lastly we have Javascript - a basics to instructions highlight.
+
+ *Javascript* or __js__ for short is a coding language mae up of statements and very precise instructions. 
+      variables are a large part of js programming and a variable is just a piece of code used to temporarily store code
+      JS can distinguish between numbers, strings and boolean results. 
+      expressions always evaluate into a single value "math"
+      expressions rely onoperators to calculate a value
+      
