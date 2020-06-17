@@ -1,0 +1,17 @@
+# Basics of HTML, CSS & JS
+
+## we review four chapters out of 2 books written by John Ducket.
+
+** first we will discuss _TEXT_ in HTML and what it does.
+
+  *elements* - describe the structure of a page, some examples of elements are
+        - _HEADINGS_ APPEAR IN THE <h1> throuhg <h6> and as the name implies, it contains the head of each section.
+        - _SUBHEADING_ appear within the headings and have smaller text
+        - _paragraph_ has a <p> tag at teh beginning of each paragraph on the page. 
+        
+        - ELEMENTS: also give semanit information. This is some text that puts definition or emphasis where it should be placed. 
+        
+**next we have an introduction to CSS or Cascading Style Sheets**
+
+  *CSS* is a world of boxes around all of the elements and applies rules to each element to determine how it should look
+      - generally appear in a different document 
