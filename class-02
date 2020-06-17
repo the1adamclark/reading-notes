@@ -1,8 +1,8 @@
-# Basics of HTML, CSS & JS
+#Basics of HTML, CSS & JS
 
-## we review four chapters out of 2 books written by John Ducket.
+##we review four chapters out of 2 books written by John Ducket.
 
-** first we will discuss _TEXT_ in HTML and what it does.
+**first we will discuss _TEXT_ in HTML and what it does.
 
   *elements* - describe the structure of a page, some examples of elements are
         - _HEADINGS_ APPEAR IN THE <h1> throuhg <h6> and as the name implies, it contains the head of each section.
