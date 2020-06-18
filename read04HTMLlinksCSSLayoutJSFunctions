@@ -1,0 +1,20 @@
+#HTML Links
+  -Links are created using an element that is simply <a>. 
+  -inside that <a> tag is the href attribute that directs the link to your page. 
+  -IF you are within your own site use relative links not the URL's 
+  -Another thing you can link to is email programs with the recipients email in the to fiels
+  -you can also use id attribute tags to target elements on your own page
+  
+  
+#CSS Layout
+  -Browsers display pages in a normal flow until you specify positioning.
+  -pages, like those on simpler and older sites are a fixed width, most newer and highly detailed ones are liquid.
+  -Commonly most websites are kept around the 960-1000 pixel wide and keep the top 600 for non scrolling parts
+  -CSS applies rules for common tasks for the pages over what HTML can do, and you can have multiple pages for each site
+
+
+#JS
+  Programming in pairs I believe is similar to the code review in the morning from what I read in the article, it is a great way to
+  bounce ideas off of team mates adn coworkers, have an extra set of eyes for finding issues, also creates a network of like minded individuals
+  that will only help you succeed in your path of becoming a web developer
+ 
