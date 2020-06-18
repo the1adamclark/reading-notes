@@ -1,1 +1,35 @@
 #HTML Lists
+
+  _<ol> *Ordered List* created an ordered list on your website, generally has numbers or something to indicate it is ordered or sequential 
+  _<li> *List Item* These are the items that are ordered buy the <ol> tags. ANything that is in the list goes between the <li> tags adn is
+          then listed out according to how it is defined be either the <ol> tag or the CSS rules applied to it. 
+  _<ul> *Unordered list* functions the same as the ordered list tag only defaults to something like bullet points and does not sort the
+          list in any order at all. The <li> tag is also used after the <ul>.
+  _<dl> *Definitio List* This is a list of Terms and their definitions. 
+  _<dt> *definition Term* THis contains all the terms being defined
+  _<dd> * different definition* this is used when you sometimes may see a term with multiple definitions or a definition with multiple
+          terms.
+   
+   ##Summary of lists
+    - 3 types of lists 
+      *ordered - use numbers
+      *unordered -uses bullets
+      *definition - define terminology
+      
+   #CSS Boxes
+   
+    *CSS treats teh elements as if they all have their own box to live in
+    *CSS is used to control the size shape and margins/padding of each box
+    *CSS contains properties to allow you to hide and make visible any of the HTML elements
+    *CSS3 has included more options for borders such as images
+    *With CSS, you can manipulate the HTML to treat Block level boxes as inline boxes as well as inline like block level
+    *CSS gives you more control over the legibility of the page by allowing you to change the width, heith, and appearance of everything.
+    
+    #JS decisions & loops
+    
+      These are used to manipulate data to make decisions and alterations to yoru site. Eseentially making it active, or interactive.
+      this is done by evaluating a series of statements into truthy or falsy or coercing data into other data types or even simple mathmatical equations.
+      
+      The use of loops and Conditional sttements will utilizes one or many operators to make the decision and alter your code. 
+      
+      Switch statements can even allow you to compare a data value against possible outcomes that have not even been run yet.
